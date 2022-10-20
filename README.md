@@ -1,6 +1,6 @@
 # Lighthouse Labs | TCP Breakout
 
-[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-tcp-breakout/tree/2022.10.20-web-flex-19sept2020) | [Vimeo Video (Coming Soon!)](#coming-soon)
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-tcp-breakout/tree/2022.10.20-web-flex-19sept2020) | [Vimeo Video](https://vimeo.com/762458236/55f8e7336f)
 
 ## Running this Example
 
