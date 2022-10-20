@@ -12,3 +12,8 @@ client.setEncoding('utf-8');
 client.on('data', (data) => {
     console.log(data);
 });
+
+process.stdin.on('data', (data) => {
+    data = String(data).trim();
+    client.write(data);
+});
