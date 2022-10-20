@@ -1,8 +1,10 @@
 const net = require('net');
 
 const config = {
-    host: 'localhost', // 127.0.0.1
+    host: 'localhost',
     port: 5000
+    // host: '4.tcp.ngrok.io', // 127.0.0.1
+    // port: 18306
 };
 
 const client = net.createConnection(config);
